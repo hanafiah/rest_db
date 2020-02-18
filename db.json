@@ -4,6 +4,11 @@
     "id":1,
     "name": "napi",
     "email":"ibnuyahya@gmail.com"
+    },
+    {
+    "id":2,
+    "name": "John Doe",
+    "email":"john@example.com"
     }
   ]
 }
